@@ -1,0 +1,29 @@
+# depslib dependency file v1.0
+1615923773 source:d:\_googledrive_\Университет\Семестр 4\Системное ПО\lab_2v2\src\list.cpp
+	"LIST.h"
+
+1615961004 d:\_googledrive_\Университет\Семестр 4\Системное ПО\lab_2v2\include\list.h
+	<stdio.h>
+	<stdlib.h>
+
+1616100769 source:d:\_googledrive_\Университет\Семестр 4\Системное ПО\lab_2v2\main.cpp
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<math.h>
+	"LIST.h"
+
+1615923773 source:c:\users\user\google Диск\Университет\Семестр 4\Системное ПО\lab_2v2\src\list.cpp
+	"LIST.h"
+
+1615961004 c:\users\user\google Диск\Университет\Семестр 4\Системное ПО\lab_2v2\include\list.h
+	<stdio.h>
+	<stdlib.h>
+
+1615961689 source:c:\users\user\google Диск\Университет\Семестр 4\Системное ПО\lab_2v2\main.cpp
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<math.h>
+	"LIST.h"
+
